@@ -1,0 +1,43 @@
+D:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+D:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+D:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+D:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+G:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+G:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+G:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+G:\COMP60\Assignment2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+G:\COMP60\Assignment2 - #2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+G:\COMP60\Assignment2 - #2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Form1.resources
+G:\COMP60\Assignment2 - #2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+G:\COMP60\Assignment2 - #2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+G:\COMP60\Assignment2 - #2\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Form1.resources
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe.config
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.pdb
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.exe
+G:\COMP60\Assignments\Assignment2 - #3\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.pdb
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe.config
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.pdb
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Form1.resources
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.exe
+D:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.pdb
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.AssemblyReference.cache
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Form1.resources
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel_of_Fortune.Properties.Resources.resources
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.GenerateResource.cache
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.csproj.CoreCompileInputs.cache
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.exe
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\obj\Debug\Wheel of Fortune.pdb
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe.config
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.exe
+G:\COMP60\Assignments\Assignment2- Final\Wheel of Fortune\Wheel of Fortune\bin\Debug\Wheel of Fortune.pdb
